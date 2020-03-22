@@ -1,0 +1,13 @@
+{
+  "kind": "singleType",
+  "connection": "default",
+  "collectionName": "dashboards",
+  "info": {
+    "name": "dashboard"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {}
+}
